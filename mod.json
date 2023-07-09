@@ -1,0 +1,9 @@
+name: "sd-ui"
+displayName: "Simpledustry - UI Pack"
+subtitle: "[Addon for Simpledustry]"
+description: "This adds UI elements meant for the Simpledustry Texturepack, but as some might don't want them, I put them in a seperate mod."
+author: "Yoru Kitsune"
+version: "1.0.0"
+minGameVersion: "145"
+repo: "Yoru-Kitsune/Simpledustry-ui-pack"
+hidden: true
